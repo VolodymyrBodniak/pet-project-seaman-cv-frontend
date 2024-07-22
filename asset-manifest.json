@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pet-project-seaman-cv-frontend/static/css/main.7acaea2f.css",
-    "main.js": "/pet-project-seaman-cv-frontend/static/js/main.22ce7154.js",
+    "main.css": "/pet-project-seaman-cv-frontend/static/css/main.12a1d192.css",
+    "main.js": "/pet-project-seaman-cv-frontend/static/js/main.340ff844.js",
     "index.html": "/pet-project-seaman-cv-frontend/index.html",
-    "main.7acaea2f.css.map": "/pet-project-seaman-cv-frontend/static/css/main.7acaea2f.css.map",
-    "main.22ce7154.js.map": "/pet-project-seaman-cv-frontend/static/js/main.22ce7154.js.map"
+    "main.12a1d192.css.map": "/pet-project-seaman-cv-frontend/static/css/main.12a1d192.css.map",
+    "main.340ff844.js.map": "/pet-project-seaman-cv-frontend/static/js/main.340ff844.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.22ce7154.js"
+    "static/css/main.12a1d192.css",
+    "static/js/main.340ff844.js"
   ]
 }
