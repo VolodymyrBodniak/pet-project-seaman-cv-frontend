@@ -1,16 +1,11 @@
+import 'App.css';
+import Login from './components/Login';
+
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101',
-      }}
-    >
-      Seaman CV App
+    <div className="App">
+      <h1>Seaman CV App</h1>
+      <Login />
     </div>
   );
 };
