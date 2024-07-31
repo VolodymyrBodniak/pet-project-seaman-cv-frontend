@@ -1,10 +1,15 @@
+import { useNavigate } from 'react-router-dom';
+import Button from '@mui/material/Button';
+
 const HomePage = () => {
-  const handleLoginBtn = () => {};
+  const navigate = useNavigate();
 
   return (
     <>
       <h2>Home Page</h2>
-      <button onClick={handleLoginBtn}>Login</button>
+      <Button variant="outlined" onClick={() => navigate('/login')}>
+        Login
+      </Button>
     </>
   );
 };
